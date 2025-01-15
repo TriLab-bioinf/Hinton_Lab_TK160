@@ -1,0 +1,38 @@
+# Metadata
+reference:
+    abundant_rna_file: NA
+    ensembl_ver: GCF_000005845.2
+    ensembl_gtf: data/00-ref/MG1655_LF82_RS00415.gtf
+    genome_build: GCF_000005845.2
+    genome_file: data/00-ref/MG1655.fna
+    star_index: 00ref
+    genome_source: NCBI
+    adapters: data/00-adapters/adapters.fa
+remove_duplicated_reads: false
+star_db:
+    sjdbOverhang: 42
+samples:
+    Input_pBAD33_rep1:
+    Input_pBAD33-MotB.1-His_rep1:
+    Input_pBAD33_rep2:
+    Input_pBAD33-MotB.1-His_rep2:
+    Input_pBAD33_rep3:
+    Input_pBAD33-MotB.1-His_rep3:
+    RIP_pBAD33_rep1:
+    RIP_pBAD33-MotB.1-His_rep1:
+    RIP_pBAD33_rep2:
+    RIP_pBAD33-MotB.1-His_rep2:
+    RIP_pBAD33_rep3:
+    RIP_pBAD33-MotB.1-His_rep3:
+    RIP_HighCon_pBAD33_rep1:
+    RIP_HighCon_pBAD33-MotB.1-His_rep1:
+    RIP_HighCon_pBAD33_rep2:
+    RIP_HighCon_pBAD33-MotB.1-His_rep2:
+    RIP_HighCon_pBAD33_rep3:
+    RIP_HighCon_pBAD33-MotB.1-His_rep3:
+    RIP_LowCon_pBAD33_rep1:
+    RIP_LowCon_pBAD33-MotB.1-His_rep1:
+    RIP_LowCon_pBAD33_rep2:
+    RIP_LowCon_pBAD33-MotB.1-His_rep2:
+    RIP_LowCon_pBAD33_rep3:
+    RIP_LowCon_pBAD33-MotB.1-His_rep3:

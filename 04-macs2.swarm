@@ -1,0 +1,7 @@
+macs2 callpeak --nomodel -t results/07-merged/RIP_HighCon_pBAD33.merged.bam -c results/07-merged/Input_pBAD33.merged.bam -g 4641652 -B --name RIP_HighCon_pBAD33 --outdir ./results/08-macs --cutoff-analysis
+macs2 callpeak --nomodel -t results/07-merged/RIP_HighCon_pBAD33-MotB.1-His.merged.bam -c results/07-merged/Input_pBAD33-MotB.1-His.merged.bam -g 4641652 -B --name RIP_HighCon_pBAD33-MotB.1-His --outdir ./results/08-macs --cutoff-analysis
+macs2 callpeak --nomodel -t results/07-merged/RIP_LowCon_pBAD33.merged.bam -c results/07-merged/Input_pBAD33.merged.bam -g 4641652 -B --name RIP_LowCon_pBAD33 --outdir ./results/08-macs --cutoff-analysis
+macs2 callpeak --nomodel -t results/07-merged/RIP_LowCon_pBAD33-MotB.1-His.merged.bam -c results/07-merged/Input_pBAD33-MotB.1-His.merged.bam -g 4641652 -B --name RIP_LowCon_pBAD33-MotB.1-His --outdir ./results/08-macs --cutoff-analysis
+macs2 callpeak --nomodel -t results/07-merged/RIP_pBAD33.merged.bam -c results/07-merged/Input_pBAD33.merged.bam -g 4641652 -B --name RIP_pBAD33 --outdir ./results/08-macs --cutoff-analysis
+macs2 callpeak --nomodel -t results/07-merged/RIP_pBAD33-MotB.1-His.merged.bam -c results/07-merged/Input_pBAD33-MotB.1-His.merged.bam -g 4641652 -B --name RIP_pBAD33-MotB.1-His --outdir ./results/08-macs --cutoff-analysis
+
